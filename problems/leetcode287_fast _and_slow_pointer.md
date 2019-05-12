@@ -17,6 +17,8 @@
 数组中只有一个重复的数字，但它可能不止重复出现一次。
 
 
+引用自：
+[[LeetCode]Find the Duplicate Number ](http://bookshadow.com/weblog/2015/09/28/leetcode-find-duplicate-number/)
 >这道题（据说）花费了计算机科学界的传奇人物Don Knuth 24小时才解出来。并且我只见过一个人（Keith Amling）用更短时间解出此题。
 >
 >问题的第一部分 - 证明至少存在一个重复元素 - 是鸽笼原理的直接应用。如果元素的范围是[1, n]，那么只存在n种不同的值。如果有n+1个元素，其中一个必然重复。
